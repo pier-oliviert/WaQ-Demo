@@ -25,7 +25,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 49";
 		rLen = 0;
-		rLoc = 1301;
+		rLoc = 1302;
 		rType = 0;
 		vrLen = 1246;
 		vrLoc = 160;
@@ -105,9 +105,9 @@
 	};
 	00FB1B4C1315373400379DCC /* myPhoto.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1412, 897}}";
-			sepNavSelRange = "{1301, 0}";
-			sepNavVisRange = "{160, 1246}";
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 884}}";
+			sepNavSelRange = "{970, 6}";
+			sepNavVisRange = "{140, 1291}";
 		};
 	};
 	00FB1B4F1315375600379DCC /* ImageListCell.h */ = {
@@ -121,7 +121,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1412, 767}}";
 			sepNavSelRange = "{1368, 0}";
-			sepNavVisRange = "{149, 1223}";
+			sepNavVisRange = "{146, 1226}";
 		};
 	};
 	00FB1B521315376F00379DCC /* ImageListCellView.h */ = {
@@ -223,7 +223,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 15";
 		rLen = 0;
-		rLoc = 1588;
+		rLoc = 1589;
 		rType = 0;
 		vrLen = 252;
 		vrLoc = 0;
@@ -338,7 +338,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 15";
 		rLen = 0;
-		rLoc = 1588;
+		rLoc = 1589;
 		rType = 0;
 		vrLen = 252;
 		vrLoc = 0;
@@ -555,7 +555,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 15";
 		rLen = 0;
-		rLoc = 1316;
+		rLoc = 1317;
 		rType = 0;
 		vrLen = 306;
 		vrLoc = 0;
@@ -625,7 +625,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 18";
 		rLen = 0;
-		rLoc = 1316;
+		rLoc = 1317;
 		rType = 0;
 		vrLen = 356;
 		vrLoc = 0;
@@ -685,7 +685,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 16";
 		rLen = 0;
-		rLoc = 1297;
+		rLoc = 1298;
 		rType = 0;
 		vrLen = 439;
 		vrLoc = 0;
@@ -725,7 +725,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 21";
 		rLen = 0;
-		rLoc = 622;
+		rLoc = 623;
 		rType = 0;
 		vrLen = 765;
 		vrLoc = 0;
@@ -735,7 +735,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 21";
 		rLen = 0;
-		rLoc = 622;
+		rLoc = 623;
 		rType = 0;
 		vrLen = 768;
 		vrLoc = 0;
@@ -745,7 +745,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 26";
 		rLen = 0;
-		rLoc = 1112;
+		rLoc = 1113;
 		rType = 0;
 		vrLen = 1062;
 		vrLoc = 0;
@@ -755,7 +755,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 24";
 		rLen = 0;
-		rLoc = 664;
+		rLoc = 665;
 		rType = 0;
 		vrLen = 1207;
 		vrLoc = 0;
@@ -775,7 +775,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 26";
 		rLen = 0;
-		rLoc = 802;
+		rLoc = 803;
 		rType = 0;
 		vrLen = 1182;
 		vrLoc = 0;
@@ -785,7 +785,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 26";
 		rLen = 0;
-		rLoc = 785;
+		rLoc = 786;
 		rType = 0;
 		vrLen = 1211;
 		vrLoc = 33;
@@ -795,7 +795,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 26";
 		rLen = 0;
-		rLoc = 785;
+		rLoc = 786;
 		rType = 0;
 		vrLen = 1211;
 		vrLoc = 33;
@@ -824,7 +824,7 @@
 		rLen = 28;
 		rLoc = 1309;
 		rType = 0;
-		vrLen = 1369;
+		vrLen = 1355;
 		vrLoc = 871;
 	};
 	00FB1D74131566C800379DCC /* PBXTextBookmark */ = {
@@ -834,7 +834,7 @@
 		rLen = 0;
 		rLoc = 1337;
 		rType = 0;
-		vrLen = 1369;
+		vrLen = 1355;
 		vrLoc = 871;
 	};
 	00FB1D78131566E200379DCC /* PBXTextBookmark */ = {
@@ -844,7 +844,7 @@
 		rLen = 0;
 		rLoc = 1446;
 		rType = 0;
-		vrLen = 1417;
+		vrLen = 1355;
 		vrLoc = 871;
 	};
 	00FB1D791315694800379DCC /* PBXTextBookmark */ = {
@@ -854,7 +854,7 @@
 		rLen = 0;
 		rLoc = 1446;
 		rType = 0;
-		vrLen = 1384;
+		vrLen = 1355;
 		vrLoc = 871;
 	};
 	00FB1D8D13156AF500379DCC /* PBXTextBookmark */ = {
@@ -862,7 +862,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 49";
 		rLen = 0;
-		rLoc = 1301;
+		rLoc = 1302;
 		rType = 0;
 		vrLen = 1246;
 		vrLoc = 160;
@@ -874,7 +874,7 @@
 		rLen = 0;
 		rLoc = 1446;
 		rType = 0;
-		vrLen = 1385;
+		vrLen = 1325;
 		vrLoc = 901;
 	};
 	00FB1D8F13156AF500379DCC /* PBXTextBookmark */ = {
@@ -932,7 +932,7 @@
 		fRef = 00FB1B4C1315373400379DCC /* myPhoto.m */;
 		name = "myPhoto.m: 49";
 		rLen = 0;
-		rLoc = 1301;
+		rLoc = 1302;
 		rType = 0;
 		vrLen = 1246;
 		vrLoc = 160;
@@ -1019,7 +1019,7 @@
 		rLen = 0;
 		rLoc = 1274;
 		rType = 0;
-		vrLen = 1457;
+		vrLen = 1420;
 		vrLoc = 806;
 	};
 	00FB1DB4131578F000379DCC /* PBXTextBookmark */ = {
@@ -1029,7 +1029,7 @@
 		rLen = 0;
 		rLoc = 1274;
 		rType = 0;
-		vrLen = 1457;
+		vrLen = 1420;
 		vrLoc = 806;
 	};
 	00FB1DB5131578F000379DCC /* PBXTextBookmark */ = {
@@ -1507,9 +1507,9 @@
 	};
 	28C286E00D94DF7D0034E888 /* ImageListController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1412, 1157}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 1222}}";
 			sepNavSelRange = "{928, 1}";
-			sepNavVisRange = "{0, 980}";
+			sepNavVisRange = "{0, 1133}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -1573,15 +1573,15 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 320323795;
-			PBXWorkspaceStateSaveDate = 320323795;
+			PBXPerProjectTemplateStateSaveDate = 320360735;
+			PBXWorkspaceStateSaveDate = 320360735;
 		};
 		perUserProjectItems = {
-			004368401317C0D900BCC3EB /* PBXTextBookmark */ = 004368401317C0D900BCC3EB /* PBXTextBookmark */;
-			004368541317C10400BCC3EB /* PBXTextBookmark */ = 004368541317C10400BCC3EB /* PBXTextBookmark */;
-			004368551317C10400BCC3EB /* PBXTextBookmark */ = 004368551317C10400BCC3EB /* PBXTextBookmark */;
-			004368561317C10400BCC3EB /* PBXTextBookmark */ = 004368561317C10400BCC3EB /* PBXTextBookmark */;
-			004368571317C10400BCC3EB /* PBXTextBookmark */ = 004368571317C10400BCC3EB /* PBXTextBookmark */;
+			004368401317C0D900BCC3EB = 004368401317C0D900BCC3EB /* PBXTextBookmark */;
+			004368541317C10400BCC3EB = 004368541317C10400BCC3EB /* PBXTextBookmark */;
+			004368551317C10400BCC3EB = 004368551317C10400BCC3EB /* PBXTextBookmark */;
+			004368561317C10400BCC3EB = 004368561317C10400BCC3EB /* PBXTextBookmark */;
+			004368571317C10400BCC3EB = 004368571317C10400BCC3EB /* PBXTextBookmark */;
 			00FB1B871315425900379DCC = 00FB1B871315425900379DCC /* PBXTextBookmark */;
 			00FB1B881315425900379DCC = 00FB1B881315425900379DCC /* PBXTextBookmark */;
 			00FB1B891315425900379DCC = 00FB1B891315425900379DCC /* PBXTextBookmark */;

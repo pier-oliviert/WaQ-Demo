@@ -22,7 +22,7 @@
       self.title = [dict valueForKey:@"name"];
     }
     
-    if (![[dict valueForKey:@"detail"] isKindOfClass:[NSNull class]]) {
+    if (![[dict valueForKey:@"details"] isKindOfClass:[NSNull class]]) {
       self.details = [dict valueForKey:@"details"];
     }
     
