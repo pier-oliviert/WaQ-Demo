@@ -34,7 +34,7 @@
       
       [request setCompletionBlock:^ {
         NSData *data = [request responseData];
-        if ([data length] > 0) {
+        if (request.responseStatusCode < 400 && [data length] > 0) {
           [blockSelf setImage:[UIImage imageWithData:data]]; 
         }
         [blockSelf setRequest:nil];
